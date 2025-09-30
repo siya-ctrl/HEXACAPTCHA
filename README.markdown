@@ -1,6 +1,6 @@
 # Deep Learning-based System for Hexadecimal CAPTCHA Recognition and Parity Classification
 
-## Description
+## Description 
 This project is a deep learning-based system designed to recognize hexadecimal CAPTCHAs and classify their parity (odd or even). It leverages advanced neural network models to decode hexadecimal patterns in CAPTCHA images and determine their numerical properties, providing an efficient solution for automated CAPTCHA solving and analysis.
 
 ## Features
